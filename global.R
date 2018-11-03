@@ -6,6 +6,7 @@ landWMS <- "https://services.land.vic.gov.au/catalogue/publicproxy/guest/dv_geos
 planning_overlays <- "VMPLAN_PLAN_OVERLAY"
 easements_layer <- "VMPROP_EASEMENT"
 address_layer <- "VMPROP_PROPERTY_ADDRESS"
+contour_layer <- "VMELEV_EL_CONTOUR_1TO5M"
 
 # planning_legend <- "http://services.land.vic.gov.au/catalogue/publicproxy/guest/dv_geoserver/datavic/ows?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=VMPLAN_PLAN_OVERLAY"
 
